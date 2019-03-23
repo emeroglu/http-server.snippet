@@ -1,0 +1,10 @@
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\bin\Debug\Http.Server.exe.config
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\bin\Debug\Http.Server.exe
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\bin\Debug\Http.Server.pdb
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\obj\Debug\Http.Server.csprojResolveAssemblyReference.cache
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\obj\Debug\Http.Server.exe
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\obj\Debug\Http.Server.pdb
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\bin\Debug\Http.Server.exe.manifest
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\bin\Debug\Http.Server.application
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\obj\Debug\Http.Server.exe.manifest
+D:\OneDrive\Software Glossary\Projects\Server Projects\Http.Server\Http.Server\obj\Debug\Http.Server.application
